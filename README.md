@@ -1,2 +1,0 @@
-# auth-google
-Auth Google
